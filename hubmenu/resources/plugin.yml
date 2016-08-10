@@ -1,0 +1,15 @@
+name: HubMenu
+main: hubmenu.Main
+version: 1.0
+author: BadEntities
+softdepend: [Votifier, EchoPets]
+commands:
+  shops:
+     description: Main Command
+     usage: /shops
+  credits:
+     description: Main Command
+     usage: /creditsSTG
+  menu:
+     description: Main Command
+     usage: /menuGUI
